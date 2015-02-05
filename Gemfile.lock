@@ -123,6 +123,7 @@ DEPENDENCIES
   sass-rails (= 4.0.1)
   sdoc (= 0.4.0)
   sqlite3
+  therubyracer
   turbolinks
   tzinfo-data
   uglifier (= 2.1.1)
